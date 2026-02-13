@@ -1,2 +1,2 @@
 # train-ticket-booking-system
-Backend booking engine implemented in Java with seat management, ticket lifecycle handling, authentication logic, and JSON persistence using Jackson.
+This project is a backend train ticket booking system developed in Java. It supports user signup/login, train search, seat booking, ticket generation, cancellation, and booking history management. The system uses JSON files for data persistence and implements proper state synchronization between users, trains, and seat allocation. It demonstrates object-oriented design, service-layer architecture, and backend debugging practices.
